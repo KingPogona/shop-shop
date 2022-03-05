@@ -2,7 +2,7 @@
 
 A MERN E-Commerce site that uses GraphQL, Redux, and Stripe.
 
-The webpage can be viewed [here](https://dashboard.heroku.com/apps/serene-peak-07630)
+The webpage can be viewed [here](https://aac-shop.herokuapp.com)
 
 
 <img width="1792" alt="Screen Shot 2021-01-17 at 8 29 49 PM" src="https://user-images.githubusercontent.com/31211822/104869271-e0b99f00-5902-11eb-927c-b861c96bc918.png">
